@@ -1,5 +1,5 @@
 import { render, screen } from "@testing-library/react";
-import ColorOptions from "../components/ColorOptions";
+import ColorOptions from ".";
 
 describe("The different color options renders as expected", () => {
   const mockColors = ["ABD123", "3FA12A", "DAF378"];

@@ -1,5 +1,5 @@
 import { render, screen } from "@testing-library/react";
-import CorrectGuessesInARow from "../components/CorrectGuessesInARow";
+import CorrectGuessesInARow from ".";
 
 describe("Correct guesses component and its value renders", () => {
   test("So that the component has an element with text being rendered", () => {

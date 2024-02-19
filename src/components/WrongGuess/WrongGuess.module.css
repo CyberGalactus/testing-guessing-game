@@ -1,0 +1,10 @@
+.wrongText {
+    background-color: black;
+    color: #ffffff;
+    width: fit-content;
+    padding: 0.5rem;
+    margin: 0 auto;
+    text-align: center;
+    box-shadow: 0 14px 6px rgba(0, 0, 0, 0.1);
+    border: 1px solid #ccc;
+}

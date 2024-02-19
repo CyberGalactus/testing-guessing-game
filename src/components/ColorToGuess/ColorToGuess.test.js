@@ -1,5 +1,5 @@
 import { render, screen } from "@testing-library/react";
-import ColorToGuess from "../components/ColorToGuess";
+import ColorToGuess from ".";
 
 describe("Color to guess component renders and has the correct color", () => {
   const mockCorrectColor = "A1F2GH";

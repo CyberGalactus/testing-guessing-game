@@ -1,5 +1,5 @@
 import { render, screen } from "@testing-library/react";
-import Color from "../components/Color";
+import Color from ".";
 
 describe("Each button works as expected and has correct text", () => {
   const mockColor = "ABD232";

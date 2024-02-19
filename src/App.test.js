@@ -1,5 +1,5 @@
 import { render, screen, fireEvent } from "@testing-library/react";
-import App from "../App";
+import App from "./App";
 
 // dont focus on this function, it is just used to convert RGB to HEX
 function convertBackToHex(value) {

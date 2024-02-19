@@ -1,0 +1,15 @@
+.ColorToGuess { 
+    padding: 20px;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+}
+
+.color {
+    width: 200px;
+    height: 200px;
+    border-radius: 141px;
+    box-shadow: 18px 18px 36px #aaaaaa,
+    -18px -18px 36px #ffffff;
+    background: #e0e0e0;
+}
